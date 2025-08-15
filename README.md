@@ -1,4 +1,4 @@
-# YakLongPae_Patcher by ke1ngo
+# YakLongPae_Patcher by ke1ng0
 YakLongPae_Patcher คือโปรแกรมแพชท์แปลภาษาจากเกมที่เพจอยากลองแปล
 เคยแปลไว้เพื่ออำนวยความสะดวกระหว่างเกมอัพเดท
 
