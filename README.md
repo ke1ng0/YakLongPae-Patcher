@@ -9,7 +9,7 @@ https://youtu.be/RQ_CAObVc3Y
 
 
 ## วิธีใช้งานเบื้องต้น
-1. เปิดโปรแกรม `YakLongPae_Patcher_v.x.exe`
+1. เปิดโปรแกรม `YakLongPae_Patcher_v.x.exe` ![step1](https://github.com/ke1ng0/YakLongPae-Patcher/blob/main/img/step1.png)
 2. เข้าหน้า `จัดการไฟล์`
 3. เลือกเกมที่ต้องการแพทช์ (โปรแกรมจะดาวน์โหลดโมดูลสำหรับเกมนั้นมา หลังจากนั้นโปรแกรมจะรีสตาร์ทใหม่)
 4. หลังจากรีสตาร์ทแล้วเลือกเกมที่ต้องการแพทช์อีกครัั้ง
